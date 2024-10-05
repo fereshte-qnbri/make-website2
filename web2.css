@@ -105,4 +105,16 @@ font-family: cursive;
     justify-content: space-around;
 font-family: cursive;
 }
+@media (max-width:800px){
+    .box1 a {display: none;
+    }
+}
+@media (max-width:800px){
+    .box4 {display: none;
+    }
+}
+@media (max-width:800px){
+    .par {display: none;
+    }
+}
 

@@ -81,3 +81,11 @@ div p:hover{
     transition: all 3s ease-in;
     transform: scale(0.7);
 }
+@media (max-width:700px){
+    .box1 a {display: none;
+    }
+}
+@media (max-width:700px){
+    .box4 {display: none;
+    }
+}
