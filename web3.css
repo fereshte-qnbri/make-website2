@@ -1,0 +1,104 @@
+.box1 {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.box1 a {
+    font-size: 27px;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    }
+    .box1 a:hover{
+        color: brown;
+        padding: 7px;
+    }
+.box2 {
+    padding-top: 20px;
+    margin-right: 5px;
+}
+.box2:hover{
+    color: brown;
+    background-color: burlywood;
+}
+
+.box3{
+    text-align: center;
+    font-size: 30px;
+    font-family: Italianno, cursive;
+}
+.box4 a {
+    text-align: center;
+    font-size: 30px;
+    font-family: Italianno, cursive;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.box5 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.box5 p {
+    background-color: rgb(209, 231, 241);
+    width: 550px;
+    height: 282px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-left: 3px;
+}
+.box5  a img {
+width: 287px;
+height: 300px;
+}
+.box5  a img:hover {
+transition: all 3s ease;
+transform: scale(1.1);
+}
+.box6 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.box6 p {
+    background-color: rgb(209, 231, 241);
+    width: 550px;
+    height: 200px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-left: 3px;
+}
+.box6  a img {
+width: 290px;
+height: 250px;
+}
+.box6  a img:hover {
+transition: all 3s ease;
+transform: scale(1.1);
+}
+.box7 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.box7 p {
+    background-color: rgb(209, 231, 241);
+    width: 550px;
+    height: 200px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-left: 3px;
+}
+.box7  a img {
+width: 290px;
+height: 250px;
+margin-top: 15px;
+}
+.box7  a img:hover {
+transition: all 3s ease;
+transform: scale(1.1);
+}
+.box8 {
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
